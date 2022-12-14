@@ -11,3 +11,6 @@ Prós:
 
 Contras:
 > Alguns resultados podem ser gerados aleatoriamente.
+
+Link Vídeo de explição e de exemplo.
+https://drive.google.com/drive/folders/1M52SGqgNtNP9TkIog33qq6otc1CZ9bs4?usp=sharing
